@@ -11,13 +11,7 @@ A full-stack job portal application built with the MERN stack that connects **Jo
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
 - [AI Resume Builder](#ai-resume-builder)
-- [Automation & Notifications](#automation--notifications)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
