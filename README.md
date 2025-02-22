@@ -1,6 +1,6 @@
 # Sarvesh Job Portal
 
-[Visit Live Project](https://sarvesh-job-portal.onrender.com) :contentReference[oaicite:0]{index=0}
+[Visit Live Project](https://sarvesh-job-portal.onrender.com) 
 
 A full-stack job portal application built with the MERN stack that connects **Job Seekers** and **Employers**. Employers can post job listings while job seekers can browse and apply for jobs. The platform also includes automated email notifications and a cutting-edge AI Resume Builder App.
 
