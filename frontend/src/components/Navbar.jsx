@@ -63,7 +63,7 @@ const Navbar = () => {
             </li>
             <li className="list-none">
               <a
-                href="https://ai-resume-builder-h44c87whk-sarveshs-projects-50718d97.vercel.app/"
+                href="https://ai-resume-builder-livid.vercel.app/"
                 target="_blank"
                 onClick={() => setShow(false)}
                 className="text-gray-700 hover:text-[#dfdf07] transition-colors duration-300"
